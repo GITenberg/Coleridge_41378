@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34029'
     url: http://www.gutenberg.org/2009/agents/34029
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41378#Coleridge
 gutenberg_issued: '2012-11-16'
 gutenberg_type: Text
 identifiers:
